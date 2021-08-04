@@ -4,4 +4,6 @@
 
 ### Project 2 hex color generator
 
-### Project Random Number generator
+### Project 3 Random Number generator
+
+### Project 4 Popup modal
